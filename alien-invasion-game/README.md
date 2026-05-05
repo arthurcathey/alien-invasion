@@ -1,6 +1,6 @@
 # Alien Invasion Game
 
-A complete 2D space shooter game built with Python and Pygame for CSC-121 (Introduction to Computer Science) final project.
+A complete 2D space shooter game built with Python and Pygame for CSC-121 final project.
 
 ## Overview
 

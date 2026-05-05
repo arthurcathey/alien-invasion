@@ -1,6 +1,6 @@
 # ALIEN INVASION GAME - FINAL PROJECT DOCUMENTATION
 
-**Course:** CSC-121 (Introduction to Computer Science)  
+**Course:** CSC-121  
 **Student:** Arthur  
 **Date:** May 2026  
 **Project:** Alien Invasion - 2D Space Shooter Game  
